@@ -1,2 +1,2 @@
-# Project1
+# Project
 New project by odin
